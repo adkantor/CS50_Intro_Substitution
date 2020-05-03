@@ -1,4 +1,4 @@
-// Encrypts messages using substitution (i.e. using a 26 character map).
+// Encrypts messages using substitution (i.e. using a map containing 26 unique characters).
 // The program accepts a single command-line argument, a 26-character-long string.
 
 #include <stdio.h>
